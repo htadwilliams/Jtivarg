@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86a11081-4be2-4a6e-af88-7960c264c37d" name="Default Changelist" comment="Initial commit of existing project files.">
+      <change afterPath="$PROJECT_DIR$/Jtivarg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/another-new-world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrovania.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blah2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liner.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newWorld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/GameFileMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/SurfaceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/TestMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/WorldMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/game/Ant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/game/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/game/Laser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/game/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/astrovania/game/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/common/application/ActionConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/common/application/FileMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/common/application/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/graphics/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/graphics/LineUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/LineDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/LinesFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/MultiLineInputDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/liner/Surface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/math/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/math/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/yticlock/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/yticlock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/yticlock/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tsoft/jtivarg/yticlock/SurfaceClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SurfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCaseSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WorldIntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/tsoft/jtivarg/math/VectorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/blah.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/blah2.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/blah3.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/buggedlaser - Copy.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/buggedlaser.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worlds/new.ast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ytivarg.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ytivarg.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ytivarg" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (game)">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tsoft.jtivarg.yticlock.Main" />
+      <module name="Jtivarg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (clock)" />
+      <item itemvalue="Application.Main (game)" />
+      <item itemvalue="Application.Main (line tool)" />
+      <item itemvalue="JUnit.All in Jtivarg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Jtivarg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of existing project files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of existing project files." />
+  </component>
+</project>

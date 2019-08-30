@@ -1,0 +1,3295 @@
+--- !<.Entity>
+children:
+- !<.Wall>
+  children: []
+  lines:
+  - angle: 3.141592653589793
+    distance: 12.0
+    yBase: 3.0
+    yEnd: 3.0
+    xBase: 4.0
+    xEnd: -8.0
+- !<.Wall>
+  children: []
+  lines:
+  - angle: -1.5707963267948966
+    distance: 9.0
+    yBase: 3.0
+    yEnd: -6.0
+    xBase: -8.0
+    xEnd: -8.0
+- !<.Wall>
+  children: []
+  lines:
+  - angle: 0.0
+    distance: 12.0
+    yBase: -6.0
+    yEnd: -6.0
+    xBase: -8.0
+    xEnd: 4.0
+- !<.Wall>
+  children: []
+  lines:
+  - angle: 1.5707963267948966
+    distance: 9.0
+    yBase: -6.0
+    yEnd: 3.0
+    xBase: 4.0
+    xEnd: 4.0
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.0
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.0
+    xBase: 0.0
+    xEnd: 2.0
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.017453292519943295
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.03490481287456702
+    xBase: 0.0
+    xEnd: 1.9996953903127825
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.03490658503988659
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.06979899340500194
+    xBase: 0.0
+    xEnd: 1.9987816540381915
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.05235987755982989
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.10467191248588767
+    xBase: 0.0
+    xEnd: 1.9972590695091477
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.06981317007977318
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.1395129474882506
+    xBase: 0.0
+    xEnd: 1.9951281005196484
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.08726646259971647
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.17431148549531633
+    xBase: 0.0
+    xEnd: 1.992389396183491
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.10471975511965977
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.20905692653530691
+    xBase: 0.0
+    xEnd: 1.9890437907365466
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.12217304763960306
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.24373868681029492
+    xBase: 0.0
+    xEnd: 1.985092303282644
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.13962634015954636
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.2783462019201309
+    xBase: 0.0
+    xEnd: 1.9805361374831407
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.15707963267948966
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.31286893008046174
+    xBase: 0.0
+    xEnd: 1.9753766811902755
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.17453292519943295
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.34729635533386066
+    xBase: 0.0
+    xEnd: 1.969615506024416
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.19198621771937624
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.3816179907530896
+    xBase: 0.0
+    xEnd: 1.963254366895328
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.20943951023931953
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.41582338163551863
+    xBase: 0.0
+    xEnd: 1.9562952014676114
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.22689280275926282
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.44990210868772995
+    xBase: 0.0
+    xEnd: 1.9487401295704705
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.24434609527920612
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.4838437911993354
+    xBase: 0.0
+    xEnd: 1.940591452551993
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.2617993877991494
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.5176380902050415
+    xBase: 0.0
+    xEnd: 1.9318516525781366
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.2792526803190927
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.5512747116339983
+    xBase: 0.0
+    xEnd: 1.9225233918766378
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.29670597283903605
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.5847434094454735
+    xBase: 0.0
+    xEnd: 1.9126095119260709
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.31415926535897937
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6180339887498949
+    xBase: 0.0
+    xEnd: 1.902113032590307
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.3316125578789227
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6511363089143135
+    xBase: 0.0
+    xEnd: 1.8910371511986335
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.349065850398866
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6840402866513376
+    xBase: 0.0
+    xEnd: 1.8793852415718166
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.3665191429188093
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.7167358990906008
+    xBase: 0.0
+    xEnd: 1.8671608529944035
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.38397243543875265
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.7492131868318244
+    xBase: 0.0
+    xEnd: 1.8543677091335746
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.40142572795869597
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.7814622569785478
+    xBase: 0.0
+    xEnd: 1.8410097069048805
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.4188790204786393
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8134732861516007
+    xBase: 0.0
+    xEnd: 1.8270909152852017
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.4363323129985826
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8452365234813992
+    xBase: 0.0
+    xEnd: 1.8126155740732997
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.4537856055185259
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8767422935781553
+    xBase: 0.0
+    xEnd: 1.7975880925983339
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.47123889803846924
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.907980999479094
+    xBase: 0.0
+    xEnd: 1.7820130483767356
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.48869219055841256
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.9389431255717821
+    xBase: 0.0
+    xEnd: 1.7658951857178535
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5061454830783558
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.9696192404926745
+    xBase: 0.0
+    xEnd: 1.7492394142787913
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5235987755982991
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0000000000000004
+    xBase: 0.0
+    xEnd: 1.732050807568877
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5410520681182425
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.030076149820109
+    xBase: 0.0
+    xEnd: 1.7143346014042242
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5585053606381858
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0598385284664105
+    xBase: 0.0
+    xEnd: 1.6960961923128517
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5759586531581291
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0892780700300548
+    xBase: 0.0
+    xEnd: 1.6773411358908477
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.5934119456780724
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.1183858069414943
+    xBase: 0.0
+    xEnd: 1.658075145110083
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.6108652381980157
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.1471528727020928
+    xBase: 0.0
+    xEnd: 1.6383040885779832
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.6283185307179591
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.175570504584947
+    xBase: 0.0
+    xEnd: 1.6180339887498945
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.6457718232379024
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2036300463040972
+    xBase: 0.0
+    xEnd: 1.5972710200945852
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.6632251157578457
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2313229506513172
+    xBase: 0.0
+    xEnd: 1.5760215072134434
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.680678408277789
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2586407820996757
+    xBase: 0.0
+    xEnd: 1.5542919229139411
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.6981317007977323
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2855752193730794
+    xBase: 0.0
+    xEnd: 1.5320888862379554
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.7155849933176757
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3121180579810154
+    xBase: 0.0
+    xEnd: 1.5094191604455434
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.733038285837619
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3382612127177174
+    xBase: 0.0
+    xEnd: 1.4862896509547878
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.7504915783575623
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3639967201249978
+    xBase: 0.0
+    xEnd: 1.4627074032383403
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.7679448708775056
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3893167409179954
+    xBase: 0.0
+    xEnd: 1.4386796006773015
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.785398163397449
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.414213562373096
+    xBase: 0.0
+    xEnd: 1.4142135623730943
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8028514559173923
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4386796006773033
+    xBase: 0.0
+    xEnd: 1.3893167409179936
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8203047484373356
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4627074032383418
+    xBase: 0.0
+    xEnd: 1.363996720124996
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8377580409572789
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4862896509547894
+    xBase: 0.0
+    xEnd: 1.3382612127177154
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8552113334772222
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.509419160445545
+    xBase: 0.0
+    xEnd: 1.3121180579810134
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8726646259971655
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5320888862379571
+    xBase: 0.0
+    xEnd: 1.2855752193730776
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.8901179185171089
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5542919229139427
+    xBase: 0.0
+    xEnd: 1.2586407820996737
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9075712110370522
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.576021507213445
+    xBase: 0.0
+    xEnd: 1.2313229506513153
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9250245035569955
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5972710200945868
+    xBase: 0.0
+    xEnd: 1.2036300463040952
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9424777960769388
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6180339887498958
+    xBase: 0.0
+    xEnd: 1.175570504584945
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9599310885968821
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6383040885779845
+    xBase: 0.0
+    xEnd: 1.1471528727020908
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9773843811168255
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6580751451100844
+    xBase: 0.0
+    xEnd: 1.1183858069414923
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 0.9948376736367688
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.677341135890849
+    xBase: 0.0
+    xEnd: 1.0892780700300526
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.012290966156712
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.696096192312853
+    xBase: 0.0
+    xEnd: 1.0598385284664082
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.0297442586766554
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7143346014042256
+    xBase: 0.0
+    xEnd: 1.0300761498201068
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.0471975511965987
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7320508075688783
+    xBase: 0.0
+    xEnd: 0.9999999999999982
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.064650843716542
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7492394142787926
+    xBase: 0.0
+    xEnd: 0.9696192404926722
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.0821041362364854
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7658951857178549
+    xBase: 0.0
+    xEnd: 0.9389431255717797
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.0995574287564287
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7820130483767367
+    xBase: 0.0
+    xEnd: 0.9079809994790917
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.117010721276372
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.797588092598335
+    xBase: 0.0
+    xEnd: 0.8767422935781529
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.1344640137963153
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8126155740733008
+    xBase: 0.0
+    xEnd: 0.8452365234813969
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.1519173063162587
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8270909152852026
+    xBase: 0.0
+    xEnd: 0.8134732861515983
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.169370598836202
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8410097069048816
+    xBase: 0.0
+    xEnd: 0.7814622569785453
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.1868238913561453
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8543677091335757
+    xBase: 0.0
+    xEnd: 0.7492131868318219
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.2042771838760886
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8671608529944044
+    xBase: 0.0
+    xEnd: 0.7167358990905983
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.221730476396032
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8793852415718175
+    xBase: 0.0
+    xEnd: 0.6840402866513351
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.2391837689159753
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8910371511986344
+    xBase: 0.0
+    xEnd: 0.651136308914311
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.2566370614359186
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.902113032590308
+    xBase: 0.0
+    xEnd: 0.6180339887498925
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.274090353955862
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9126095119260718
+    xBase: 0.0
+    xEnd: 0.584743409445471
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.2915436464758052
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9225233918766385
+    xBase: 0.0
+    xEnd: 0.5512747116339958
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3089969389957485
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9318516525781373
+    xBase: 0.0
+    xEnd: 0.5176380902050389
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3264502315156919
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9405914525519936
+    xBase: 0.0
+    xEnd: 0.4838437911993328
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3439035240356352
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9487401295704712
+    xBase: 0.0
+    xEnd: 0.4499021086877273
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3613568165555785
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9562952014676118
+    xBase: 0.0
+    xEnd: 0.4158233816355159
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3788101090755218
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9632543668953284
+    xBase: 0.0
+    xEnd: 0.3816179907530868
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.3962634015954651
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9696155060244167
+    xBase: 0.0
+    xEnd: 0.3472963553338578
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.4137166941154085
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.975376681190276
+    xBase: 0.0
+    xEnd: 0.3128689300804588
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.4311699866353518
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.980536137483141
+    xBase: 0.0
+    xEnd: 0.2783462019201279
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.448623279155295
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9850923032826444
+    xBase: 0.0
+    xEnd: 0.2437386868102919
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.4660765716752384
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.989043790736547
+    xBase: 0.0
+    xEnd: 0.2090569265353038
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.4835298641951817
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9923893961834913
+    xBase: 0.0
+    xEnd: 0.17431148549531317
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.500983156715125
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9951281005196486
+    xBase: 0.0
+    xEnd: 0.13951294748824736
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.5184364492350684
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9972590695091479
+    xBase: 0.0
+    xEnd: 0.10467191248588438
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.5358897417550117
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9987816540381915
+    xBase: 0.0
+    xEnd: 0.06979899340499861
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.553343034274955
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9996953903127825
+    xBase: 0.0
+    xEnd: 0.034904812874563644
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.5707963267948983
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 2.0
+    xBase: 0.0
+    xEnd: -3.4302489988857658E-15
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.5882496193148417
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9996953903127823
+    xBase: 0.0
+    xEnd: -0.03490481287457051
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.605702911834785
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9987816540381913
+    xBase: 0.0
+    xEnd: -0.06979899340500546
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.6231562043547283
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9972590695091477
+    xBase: 0.0
+    xEnd: -0.10467191248589124
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.6406094968746716
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9951281005196482
+    xBase: 0.0
+    xEnd: -0.1395129474882542
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.658062789394615
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9923893961834906
+    xBase: 0.0
+    xEnd: -0.17431148549532
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.6755160819145583
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9890437907365464
+    xBase: 0.0
+    xEnd: -0.20905692653531063
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.6929693744345016
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9850923032826435
+    xBase: 0.0
+    xEnd: -0.2437386868102987
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.710422666954445
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.98053613748314
+    xBase: 0.0
+    xEnd: -0.27834620192013465
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.7278759594743882
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9753766811902749
+    xBase: 0.0
+    xEnd: -0.31286893008046557
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.7453292519943315
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9696155060244154
+    xBase: 0.0
+    xEnd: -0.34729635533386455
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.7627825445142749
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.963254366895327
+    xBase: 0.0
+    xEnd: -0.3816179907530935
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.7802358370342182
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9562952014676105
+    xBase: 0.0
+    xEnd: -0.41582338163552257
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.7976891295541615
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9487401295704696
+    xBase: 0.0
+    xEnd: -0.44990210868773395
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.8151424220741048
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.940591452551992
+    xBase: 0.0
+    xEnd: -0.4838437911993394
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.8325957145940481
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9318516525781355
+    xBase: 0.0
+    xEnd: -0.5176380902050455
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.8500490071139915
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9225233918766365
+    xBase: 0.0
+    xEnd: -0.5512747116340024
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.8675022996339348
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9126095119260698
+    xBase: 0.0
+    xEnd: -0.5847434094454775
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.884955592153878
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.9021130325903057
+    xBase: 0.0
+    xEnd: -0.6180339887498989
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.9024088846738214
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8910371511986321
+    xBase: 0.0
+    xEnd: -0.6511363089143174
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.9198621771937647
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8793852415718153
+    xBase: 0.0
+    xEnd: -0.6840402866513415
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.937315469713708
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.867160852994402
+    xBase: 0.0
+    xEnd: -0.7167358990906046
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.9547687622336514
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.854367709133573
+    xBase: 0.0
+    xEnd: -0.7492131868318282
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.9722220547535947
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.841009706904879
+    xBase: 0.0
+    xEnd: -0.7814622569785517
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 1.989675347273538
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.8270909152852
+    xBase: 0.0
+    xEnd: -0.8134732861516046
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.007128639793481
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.812615574073298
+    xBase: 0.0
+    xEnd: -0.8452365234814027
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.024581932313424
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7975880925983323
+    xBase: 0.0
+    xEnd: -0.8767422935781582
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.0420352248333673
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7820130483767342
+    xBase: 0.0
+    xEnd: -0.9079809994790966
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.0594885173533104
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7658951857178524
+    xBase: 0.0
+    xEnd: -0.9389431255717842
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.0769418098732535
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7492394142787904
+    xBase: 0.0
+    xEnd: -0.9696192404926763
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.0943951023931966
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.732050807568876
+    xBase: 0.0
+    xEnd: -1.000000000000002
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.1118483949131397
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.7143346014042236
+    xBase: 0.0
+    xEnd: -1.0300761498201099
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.129301687433083
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6960961923128512
+    xBase: 0.0
+    xEnd: -1.0598385284664111
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.146754979953026
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6773411358908474
+    xBase: 0.0
+    xEnd: -1.089278070030055
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.164208272472969
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.658075145110083
+    xBase: 0.0
+    xEnd: -1.1183858069414943
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.181661564992912
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.6383040885779834
+    xBase: 0.0
+    xEnd: -1.1471528727020923
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.199114857512855
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.618033988749895
+    xBase: 0.0
+    xEnd: -1.175570504584946
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.2165681500327983
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.597271020094586
+    xBase: 0.0
+    xEnd: -1.203630046304096
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.2340214425527414
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5760215072134445
+    xBase: 0.0
+    xEnd: -1.2313229506513157
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.2514747350726845
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5542919229139427
+    xBase: 0.0
+    xEnd: -1.258640782099674
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.2689280275926276
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5320888862379571
+    xBase: 0.0
+    xEnd: -1.2855752193730774
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.2863813201125707
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.5094191604455454
+    xBase: 0.0
+    xEnd: -1.312118057981013
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.3038346126325138
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4862896509547903
+    xBase: 0.0
+    xEnd: -1.3382612127177145
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.321287905152457
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.462707403238343
+    xBase: 0.0
+    xEnd: -1.363996720124995
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.3387411976724
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4386796006773046
+    xBase: 0.0
+    xEnd: -1.389316740917992
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.356194490192343
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.4142135623730978
+    xBase: 0.0
+    xEnd: -1.4142135623730925
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.373647782712286
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3893167409179976
+    xBase: 0.0
+    xEnd: -1.4386796006772995
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.3911010752322293
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3639967201250003
+    xBase: 0.0
+    xEnd: -1.4627074032383378
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.4085543677521724
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.33826121271772
+    xBase: 0.0
+    xEnd: -1.4862896509547852
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.4260076602721155
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.3121180579810185
+    xBase: 0.0
+    xEnd: -1.5094191604455405
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.4434609527920585
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.285575219373083
+    xBase: 0.0
+    xEnd: -1.5320888862379525
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.4609142453120016
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2586407820996797
+    xBase: 0.0
+    xEnd: -1.5542919229139378
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.4783675378319447
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.2313229506513217
+    xBase: 0.0
+    xEnd: -1.57602150721344
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.495820830351888
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.203630046304102
+    xBase: 0.0
+    xEnd: -1.5972710200945814
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.513274122871831
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.1755705045849523
+    xBase: 0.0
+    xEnd: -1.6180339887498905
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.530727415391774
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.1471528727020985
+    xBase: 0.0
+    xEnd: -1.6383040885779792
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.548180707911717
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.1183858069415005
+    xBase: 0.0
+    xEnd: -1.6580751451100788
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.5656340004316602
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0892780700300613
+    xBase: 0.0
+    xEnd: -1.6773411358908434
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.5830872929516033
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0598385284664174
+    xBase: 0.0
+    xEnd: -1.6960961923128473
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.6005405854715464
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0300761498201163
+    xBase: 0.0
+    xEnd: -1.7143346014042198
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.6179938779914895
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 1.0000000000000084
+    xBase: 0.0
+    xEnd: -1.7320508075688725
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.6354471705114326
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.9696192404926829
+    xBase: 0.0
+    xEnd: -1.7492394142787866
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.6529004630313757
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.9389431255717908
+    xBase: 0.0
+    xEnd: -1.7658951857178489
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.670353755551319
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.9079809994791033
+    xBase: 0.0
+    xEnd: -1.7820130483767307
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.687807048071262
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8767422935781649
+    xBase: 0.0
+    xEnd: -1.797588092598329
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.705260340591205
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8452365234814094
+    xBase: 0.0
+    xEnd: -1.812615574073295
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.722713633111148
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.8134732861516114
+    xBase: 0.0
+    xEnd: -1.8270909152851968
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.740166925631091
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.781462256978559
+    xBase: 0.0
+    xEnd: -1.8410097069048759
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.7576202181510343
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.749213186831836
+    xBase: 0.0
+    xEnd: -1.85436770913357
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.7750735106709774
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.7167358990906129
+    xBase: 0.0
+    xEnd: -1.8671608529943988
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.7925268031909205
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6840402866513503
+    xBase: 0.0
+    xEnd: -1.8793852415718122
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.8099800957108636
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6511363089143266
+    xBase: 0.0
+    xEnd: -1.891037151198629
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.8274333882308067
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.6180339887499086
+    xBase: 0.0
+    xEnd: -1.9021130325903026
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.84488668075075
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.5847434094454876
+    xBase: 0.0
+    xEnd: -1.9126095119260667
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.862339973270693
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.551274711634013
+    xBase: 0.0
+    xEnd: -1.9225233918766336
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.879793265790636
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.5176380902050566
+    xBase: 0.0
+    xEnd: -1.9318516525781326
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.897246558310579
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.483843791199351
+    xBase: 0.0
+    xEnd: -1.9405914525519892
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.914699850830522
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.449902108687746
+    xBase: 0.0
+    xEnd: -1.9487401295704667
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.9321531433504653
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.4158233816355351
+    xBase: 0.0
+    xEnd: -1.9562952014676078
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.9496064358704084
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.38161799075310654
+    xBase: 0.0
+    xEnd: -1.9632543668953246
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.9670597283903515
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.34729635533387804
+    xBase: 0.0
+    xEnd: -1.9696155060244132
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 2.9845130209102946
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.3128689300804795
+    xBase: 0.0
+    xEnd: -1.9753766811902727
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.0019663134302377
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.2783462019201491
+    xBase: 0.0
+    xEnd: -1.980536137483138
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.0194196059501808
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.2437386868103136
+    xBase: 0.0
+    xEnd: -1.9850923032826417
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.036872898470124
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.209056926535326
+    xBase: 0.0
+    xEnd: -1.9890437907365446
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.054326190990067
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.17431148549533584
+    xBase: 0.0
+    xEnd: -1.9923893961834893
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.07177948351001
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.13951294748827053
+    xBase: 0.0
+    xEnd: -1.995128100519647
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.089232776029953
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.10467191248590801
+    xBase: 0.0
+    xEnd: -1.9972590695091468
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1066860685498963
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.0697989934050227
+    xBase: 0.0
+    xEnd: -1.9987816540381906
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1241393610698394
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 0.03490481287458819
+    xBase: 0.0
+    xEnd: -1.999695390312782
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1415926535897825
+    distance: 2.0
+    yBase: 0.0
+    yEnd: 2.1561211432632476E-14
+    xBase: 0.0
+    xEnd: -2.0
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1590459461097256
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.03490481287454507
+    xBase: 0.0
+    xEnd: -1.9996953903127828
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1764992386296687
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.06979899340497961
+    xBase: 0.0
+    xEnd: -1.9987816540381922
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.1939525311496118
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.10467191248586495
+    xBase: 0.0
+    xEnd: -1.997259069509149
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.211405823669555
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.1395129474882275
+    xBase: 0.0
+    xEnd: -1.9951281005196502
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.228859116189498
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.1743114854952929
+    xBase: 0.0
+    xEnd: -1.992389396183493
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.246312408709441
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.20905692653528313
+    xBase: 0.0
+    xEnd: -1.9890437907365492
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.263765701229384
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.2437386868102708
+    xBase: 0.0
+    xEnd: -1.985092303282647
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.2812189937493272
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.2783462019201064
+    xBase: 0.0
+    xEnd: -1.980536137483144
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.2986722862692703
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.3128689300804369
+    xBase: 0.0
+    xEnd: -1.9753766811902793
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.3161255787892134
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.34729635533383557
+    xBase: 0.0
+    xEnd: -1.9696155060244205
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.3335788713091565
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.3816179907530642
+    xBase: 0.0
+    xEnd: -1.9632543668953328
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.3510321638290996
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.41582338163549293
+    xBase: 0.0
+    xEnd: -1.9562952014676167
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.3684854563490427
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.44990210868770397
+    xBase: 0.0
+    xEnd: -1.9487401295704765
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.385938748868986
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.48384379119930915
+    xBase: 0.0
+    xEnd: -1.9405914525519996
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.403392041388929
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.517638090205015
+    xBase: 0.0
+    xEnd: -1.9318516525781437
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.420845333908872
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.5512747116339716
+    xBase: 0.0
+    xEnd: -1.9225233918766453
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.438298626428815
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.5847434094454464
+    xBase: 0.0
+    xEnd: -1.9126095119260793
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.455751918948758
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.6180339887498676
+    xBase: 0.0
+    xEnd: -1.902113032590316
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.4732052114687013
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.6511363089142859
+    xBase: 0.0
+    xEnd: -1.891037151198643
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.4906585039886444
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.6840402866513098
+    xBase: 0.0
+    xEnd: -1.8793852415718268
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.5081117965085875
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.7167358990905727
+    xBase: 0.0
+    xEnd: -1.8671608529944141
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.5255650890285306
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.749213186831796
+    xBase: 0.0
+    xEnd: -1.8543677091335862
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.5430183815484737
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.7814622569785192
+    xBase: 0.0
+    xEnd: -1.8410097069048927
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.560471674068417
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.813473286151572
+    xBase: 0.0
+    xEnd: -1.8270909152852144
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.57792496658836
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.8452365234813703
+    xBase: 0.0
+    xEnd: -1.8126155740733132
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.595378259108303
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.8767422935781262
+    xBase: 0.0
+    xEnd: -1.797588092598348
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.612831551628246
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9079809994790649
+    xBase: 0.0
+    xEnd: -1.7820130483767505
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.630284844148189
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9389431255717527
+    xBase: 0.0
+    xEnd: -1.7658951857178693
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.6477381366681323
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9696192404926451
+    xBase: 0.0
+    xEnd: -1.7492394142788077
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.6651914291880754
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.999999999999971
+    xBase: 0.0
+    xEnd: -1.732050807568894
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.6826447217080185
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.0300761498200794
+    xBase: 0.0
+    xEnd: -1.714334601404242
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.7000980142279616
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.059838528466381
+    xBase: 0.0
+    xEnd: -1.6960961923128701
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.7175513067479047
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.089278070030025
+    xBase: 0.0
+    xEnd: -1.677341135890867
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.735004599267848
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.1183858069414647
+    xBase: 0.0
+    xEnd: -1.658075145110103
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.752457891787791
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.1471528727020632
+    xBase: 0.0
+    xEnd: -1.6383040885780038
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.769911184307734
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.1755705045849172
+    xBase: 0.0
+    xEnd: -1.6180339887499158
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.787364476827677
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2036300463040677
+    xBase: 0.0
+    xEnd: -1.5972710200946074
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.80481776934762
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2313229506512877
+    xBase: 0.0
+    xEnd: -1.5760215072134665
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.8222710618675633
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2586407820996461
+    xBase: 0.0
+    xEnd: -1.5542919229139651
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.8397243543875064
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.28557521937305
+    xBase: 0.0
+    xEnd: -1.53208888623798
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.8571776469074495
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.3121180579809861
+    xBase: 0.0
+    xEnd: -1.5094191604455687
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.8746309394273926
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.338261212717688
+    xBase: 0.0
+    xEnd: -1.486289650954814
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.8920842319473357
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.3639967201249688
+    xBase: 0.0
+    xEnd: -1.4627074032383673
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.9095375244672788
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.3893167409179665
+    xBase: 0.0
+    xEnd: -1.4386796006773293
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.926990816987222
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4142135623730672
+    xBase: 0.0
+    xEnd: -1.414213562373123
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.944444109507165
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4386796006772746
+    xBase: 0.0
+    xEnd: -1.3893167409180232
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.961897402027108
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4627074032383136
+    xBase: 0.0
+    xEnd: -1.3639967201250265
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.979350694547051
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4862896509547614
+    xBase: 0.0
+    xEnd: -1.3382612127177467
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 3.9968039870669942
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5094191604455172
+    xBase: 0.0
+    xEnd: -1.3121180579810454
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.014257279586937
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5320888862379296
+    xBase: 0.0
+    xEnd: -1.2855752193731103
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.03171057210688
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5542919229139156
+    xBase: 0.0
+    xEnd: -1.2586407820997074
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.0491638646268235
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.576021507213418
+    xBase: 0.0
+    xEnd: -1.2313229506513497
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.066617157146767
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5972710200945601
+    xBase: 0.0
+    xEnd: -1.2036300463041305
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.08407044966671
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6180339887498696
+    xBase: 0.0
+    xEnd: -1.175570504584981
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.101523742186653
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6383040885779587
+    xBase: 0.0
+    xEnd: -1.1471528727021276
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.118977034706596
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6580751451100588
+    xBase: 0.0
+    xEnd: -1.11838580694153
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.136430327226539
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6773411358908241
+    xBase: 0.0
+    xEnd: -1.0892780700300912
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.153883619746482
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6960961923128284
+    xBase: 0.0
+    xEnd: -1.0598385284664478
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.171336912266425
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7143346014042014
+    xBase: 0.0
+    xEnd: -1.030076149820147
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.188790204786368
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7320508075688545
+    xBase: 0.0
+    xEnd: -1.0000000000000393
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.206243497306311
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7492394142787695
+    xBase: 0.0
+    xEnd: -0.9696192404927141
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.2236967898262545
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7658951857178322
+    xBase: 0.0
+    xEnd: -0.9389431255718222
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.241150082346198
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7820130483767147
+    xBase: 0.0
+    xEnd: -0.907980999479135
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.258603374866141
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7975880925983134
+    xBase: 0.0
+    xEnd: -0.876742293578197
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.276056667386084
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.81261557407328
+    xBase: 0.0
+    xEnd: -0.8452365234814417
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.293509959906027
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8270909152851824
+    xBase: 0.0
+    xEnd: -0.813473286151644
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.31096325242597
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8410097069048619
+    xBase: 0.0
+    xEnd: -0.7814622569785918
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.328416544945913
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8543677091335566
+    xBase: 0.0
+    xEnd: -0.749213186831869
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.345869837465856
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.867160852994386
+    xBase: 0.0
+    xEnd: -0.7167358990906462
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.363323129985799
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8793852415718
+    xBase: 0.0
+    xEnd: -0.6840402866513838
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.380776422505742
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8910371511986175
+    xBase: 0.0
+    xEnd: -0.6511363089143604
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.3982297150256855
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9021130325902917
+    xBase: 0.0
+    xEnd: -0.6180339887499424
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.415683007545629
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9126095119260562
+    xBase: 0.0
+    xEnd: -0.5847434094455217
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.433136300065572
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9225233918766236
+    xBase: 0.0
+    xEnd: -0.5512747116340473
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.450589592585515
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9318516525781233
+    xBase: 0.0
+    xEnd: -0.517638090205091
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.468042885105458
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9405914525519805
+    xBase: 0.0
+    xEnd: -0.4838437911993856
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.485496177625401
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9487401295704587
+    xBase: 0.0
+    xEnd: -0.44990210868778074
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.502949470145344
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9562952014676003
+    xBase: 0.0
+    xEnd: -0.41582338163557
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.520402762665287
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9632543668953177
+    xBase: 0.0
+    xEnd: -0.3816179907531415
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.53785605518523
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.969615506024407
+    xBase: 0.0
+    xEnd: -0.3472963553339131
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.555309347705173
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.975376681190267
+    xBase: 0.0
+    xEnd: -0.31286893008051475
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.5727626402251165
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9805361374831332
+    xBase: 0.0
+    xEnd: -0.2783462019201844
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.59021593274506
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9850923032826375
+    xBase: 0.0
+    xEnd: -0.243738686810349
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.607669225265003
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.989043790736541
+    xBase: 0.0
+    xEnd: -0.20905692653536148
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.625122517784946
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9923893961834862
+    xBase: 0.0
+    xEnd: -0.17431148549537137
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.642575810304889
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9951281005196446
+    xBase: 0.0
+    xEnd: -0.1395129474883061
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.660029102824832
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9972590695091448
+    xBase: 0.0
+    xEnd: -0.10467191248594361
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.677482395344775
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9987816540381895
+    xBase: 0.0
+    xEnd: -0.06979899340505832
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.694935687864718
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9996953903127814
+    xBase: 0.0
+    xEnd: -0.03490481287462383
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.712388980384661
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -2.0
+    xBase: 0.0
+    xEnd: -5.721081290055222E-14
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.729842272904604
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9996953903127834
+    xBase: 0.0
+    xEnd: 0.03490481287450943
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.7472955654245474
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9987816540381935
+    xBase: 0.0
+    xEnd: 0.06979899340494397
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.7647488579444905
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9972590695091508
+    xBase: 0.0
+    xEnd: 0.10467191248582934
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.782202150464434
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9951281005196526
+    xBase: 0.0
+    xEnd: 0.13951294748819196
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.799655442984377
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9923893961834962
+    xBase: 0.0
+    xEnd: 0.17431148549525738
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.81710873550432
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9890437907365528
+    xBase: 0.0
+    xEnd: 0.20905692653524768
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.834562028024263
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9850923032826513
+    xBase: 0.0
+    xEnd: 0.24373868681023542
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.852015320544206
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.980536137483149
+    xBase: 0.0
+    xEnd: 0.2783462019200711
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.869468613064149
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9753766811902849
+    xBase: 0.0
+    xEnd: 0.31286893008040173
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.886921905584092
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9696155060244267
+    xBase: 0.0
+    xEnd: 0.34729635533380043
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.904375198104035
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9632543668953397
+    xBase: 0.0
+    xEnd: 0.3816179907530292
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.921828490623978
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9562952014676243
+    xBase: 0.0
+    xEnd: 0.41582338163545807
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.9392817831439215
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9487401295704845
+    xBase: 0.0
+    xEnd: 0.4499021086876692
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.956735075663865
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.940591452552008
+    xBase: 0.0
+    xEnd: 0.48384379119927456
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.974188368183808
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9318516525781528
+    xBase: 0.0
+    xEnd: 0.5176380902049805
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 4.991641660703751
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9225233918766553
+    xBase: 0.0
+    xEnd: 0.5512747116339373
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.009094953223694
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.9126095119260897
+    xBase: 0.0
+    xEnd: 0.5847434094454123
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.026548245743637
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.902113032590327
+    xBase: 0.0
+    xEnd: 0.6180339887498336
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.04400153826358
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8910371511986548
+    xBase: 0.0
+    xEnd: 0.6511363089142521
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.061454830783523
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.879385241571839
+    xBase: 0.0
+    xEnd: 0.6840402866512763
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.078908123303466
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.867160852994427
+    xBase: 0.0
+    xEnd: 0.7167358990905394
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.096361415823409
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8543677091335995
+    xBase: 0.0
+    xEnd: 0.749213186831763
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.1138147083433525
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8410097069049065
+    xBase: 0.0
+    xEnd: 0.7814622569784865
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.131268000863296
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.827090915285229
+    xBase: 0.0
+    xEnd: 0.8134732861515395
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.148721293383239
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.8126155740733283
+    xBase: 0.0
+    xEnd: 0.845236523481338
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.166174585903182
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7975880925983636
+    xBase: 0.0
+    xEnd: 0.8767422935780942
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.183627878423125
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7820130483767667
+    xBase: 0.0
+    xEnd: 0.9079809994790331
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.201081170943068
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.765895185717886
+    xBase: 0.0
+    xEnd: 0.9389431255717212
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.218534463463011
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.749239414278825
+    xBase: 0.0
+    xEnd: 0.9696192404926139
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.235987755982954
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7320508075689118
+    xBase: 0.0
+    xEnd: 0.9999999999999402
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.253441048502897
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.7143346014042604
+    xBase: 0.0
+    xEnd: 1.0300761498200488
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.27089434102284
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.696096192312889
+    xBase: 0.0
+    xEnd: 1.0598385284663507
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.2883476335427835
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6773411358908863
+    xBase: 0.0
+    xEnd: 1.0892780700299953
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.305800926062727
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.658075145110123
+    xBase: 0.0
+    xEnd: 1.118385806941435
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.32325421858267
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6383040885780242
+    xBase: 0.0
+    xEnd: 1.147152872702034
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.340707511102613
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.6180339887499369
+    xBase: 0.0
+    xEnd: 1.1755705045848885
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.358160803622556
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.597271020094629
+    xBase: 0.0
+    xEnd: 1.2036300463040392
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.375614096142499
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5760215072134884
+    xBase: 0.0
+    xEnd: 1.2313229506512595
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.393067388662442
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5542919229139875
+    xBase: 0.0
+    xEnd: 1.2586407820996184
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.410520681182385
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.532088886238003
+    xBase: 0.0
+    xEnd: 1.2855752193730228
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.427973973702328
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.5094191604455922
+    xBase: 0.0
+    xEnd: 1.312118057980959
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.445427266222271
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4862896509548378
+    xBase: 0.0
+    xEnd: 1.3382612127176616
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.4628805587422145
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4627074032383915
+    xBase: 0.0
+    xEnd: 1.3639967201249428
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.4803338512621576
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4386796006773541
+    xBase: 0.0
+    xEnd: 1.3893167409179408
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.497787143782101
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.4142135623731482
+    xBase: 0.0
+    xEnd: 1.414213562373042
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.515240436302044
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.389316740918049
+    xBase: 0.0
+    xEnd: 1.4386796006772498
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.532693728821987
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.3639967201250525
+    xBase: 0.0
+    xEnd: 1.4627074032382892
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.55014702134193
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.338261212717773
+    xBase: 0.0
+    xEnd: 1.4862896509547374
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.567600313861873
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.3121180579810723
+    xBase: 0.0
+    xEnd: 1.5094191604454936
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.585053606381816
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2855752193731376
+    xBase: 0.0
+    xEnd: 1.5320888862379065
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.602506898901759
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2586407820997352
+    xBase: 0.0
+    xEnd: 1.554291922913893
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.619960191421702
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.2313229506513779
+    xBase: 0.0
+    xEnd: 1.576021507213396
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.637413483941645
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.203630046304159
+    xBase: 0.0
+    xEnd: 1.5972710200945386
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.6548667764615885
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.1755705045850098
+    xBase: 0.0
+    xEnd: 1.6180339887498487
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.672320068981532
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.147152872702157
+    xBase: 0.0
+    xEnd: 1.6383040885779383
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.689773361501475
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.1183858069415595
+    xBase: 0.0
+    xEnd: 1.658075145110039
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.707226654021418
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.089278070030121
+    xBase: 0.0
+    xEnd: 1.6773411358908046
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.724679946541361
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.059838528466478
+    xBase: 0.0
+    xEnd: 1.6960961923128095
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.742133239061304
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.0300761498201776
+    xBase: 0.0
+    xEnd: 1.7143346014041831
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.759586531581247
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -1.0000000000000702
+    xBase: 0.0
+    xEnd: 1.7320508075688368
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.77703982410119
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9696192404927453
+    xBase: 0.0
+    xEnd: 1.7492394142787522
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.794493116621133
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9389431255718538
+    xBase: 0.0
+    xEnd: 1.7658951857178156
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.811946409141076
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.9079809994791668
+    xBase: 0.0
+    xEnd: 1.7820130483766985
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.8293997016610195
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.8767422935782291
+    xBase: 0.0
+    xEnd: 1.7975880925982979
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.846852994180963
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.845236523481474
+    xBase: 0.0
+    xEnd: 1.8126155740732648
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.864306286700906
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.8134732861516766
+    xBase: 0.0
+    xEnd: 1.827090915285168
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.881759579220849
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.7814622569786246
+    xBase: 0.0
+    xEnd: 1.8410097069048479
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.899212871740792
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.7492131868319021
+    xBase: 0.0
+    xEnd: 1.8543677091335433
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.916666164260735
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.7167358990906795
+    xBase: 0.0
+    xEnd: 1.8671608529943733
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.934119456780678
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.6840402866514173
+    xBase: 0.0
+    xEnd: 1.8793852415717878
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.951572749300621
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.651136308914394
+    xBase: 0.0
+    xEnd: 1.891037151198606
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.969026041820564
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.6180339887499764
+    xBase: 0.0
+    xEnd: 1.9021130325902806
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 5.986479334340507
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.5847434094455558
+    xBase: 0.0
+    xEnd: 1.9126095119260458
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.0039326268604505
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.5512747116340816
+    xBase: 0.0
+    xEnd: 1.9225233918766138
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.021385919380394
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.5176380902051255
+    xBase: 0.0
+    xEnd: 1.931851652578114
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.038839211900337
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.48384379119942017
+    xBase: 0.0
+    xEnd: 1.9405914525519719
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.05629250442028
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.44990210868781544
+    xBase: 0.0
+    xEnd: 1.9487401295704507
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.073745796940223
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.41582338163560484
+    xBase: 0.0
+    xEnd: 1.956295201467593
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.091199089460166
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.3816179907531765
+    xBase: 0.0
+    xEnd: 1.963254366895311
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.108652381980109
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.34729635533394826
+    xBase: 0.0
+    xEnd: 1.9696155060244007
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.126105674500052
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.31286893008054995
+    xBase: 0.0
+    xEnd: 1.9753766811902616
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.143558967019995
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.2783462019202197
+    xBase: 0.0
+    xEnd: 1.980536137483128
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.161012259539938
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.24373868681038438
+    xBase: 0.0
+    xEnd: 1.985092303282633
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.1784655520598815
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.20905692653539693
+    xBase: 0.0
+    xEnd: 1.9890437907365373
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.195918844579825
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.17431148549540687
+    xBase: 0.0
+    xEnd: 1.992389396183483
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.213372137099768
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.13951294748834164
+    xBase: 0.0
+    xEnd: 1.9951281005196422
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.230825429619711
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.10467191248597921
+    xBase: 0.0
+    xEnd: 1.997259069509143
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.248278722139654
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.06979899340509396
+    xBase: 0.0
+    xEnd: 1.9987816540381882
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.265732014659597
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -0.03490481287465948
+    xBase: 0.0
+    xEnd: 1.9996953903127808
+- !<.Ant>
+  children: []
+  lines:
+  - angle: 6.28318530717954
+    distance: 2.0
+    yBase: 0.0
+    yEnd: -9.286041436847196E-14
+    xBase: 0.0
+    xEnd: 2.0
+- !<.Laser>
+  x: 0.0
+  y: 10.0
+  angle: 0.7853981633974483
+  speed: 1000.0
+  children: []
+  lines: []
+lines: []

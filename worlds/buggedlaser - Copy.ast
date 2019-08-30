@@ -1,0 +1,52 @@
+--- !<.Entity>
+lines: []
+children:
+- !<.Wall>
+  lines:
+  - angle: 0.0
+    distance: 1846.0
+    xEnd: 1850.0
+    yEnd: 3.0
+    yBase: 3.0
+    xBase: 4.0
+  children: []
+- !<.Wall>
+  lines:
+  - angle: 1.5707963267948966
+    distance: 1025.0
+    xEnd: 1850.0
+    yEnd: 1028.0
+    yBase: 3.0
+    xBase: 1850.0
+  children: []
+- !<.Wall>
+  lines:
+  - angle: 3.141592653589793
+    distance: 1846.0
+    xEnd: 4.0
+    yEnd: 1028.0
+    yBase: 1028.0
+    xBase: 1850.0
+  children: []
+- !<.Wall>
+  lines:
+  - angle: -1.5707963267948966
+    distance: 1025.0
+    xEnd: 4.0
+    yEnd: 3.0
+    yBase: 1028.0
+    xBase: 4.0
+  children: []
+- !<.Laser>
+  x: 1349.901909558067
+  y: 116.05765248017894
+  angle: 6.060015413385543
+  speed: 1000.0
+  lines:
+  - angle: 6.060015413385543
+    distance: 980.0000000000016
+    xEnd: 1349.901909558067
+    yEnd: 116.05765248017894
+    yBase: 332.9532249840023
+    xBase: 394.2051424670394
+  children: []
