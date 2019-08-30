@@ -1,11 +1,10 @@
 # Jtivarg
 
-Java polar math library Vector and related projects.
-
 Vector class features
 
+* Stuffed with Pi!
 * Encapsultes polar coordinate math, with conversion between cartesian and polar coordinate spaces.
-* Fast 2d line segment collision detection.
+* Fast 2d line segment collision detection and intersection point calculation.
 * Vector addition and other geometry related utility.
 
 Jticlock
