@@ -1,21 +1,27 @@
 # Jtivarg
+
 Java polar math library Vector and related projects.
 
 Vector class features
+
 * Encapsultes polar coordinate math, with conversion between cartesian and polar coordinate spaces.
 * Fast 2d line segment collision detection.
 * Vector addition and other geometry related utility.
 
 Jticlock
+
   Demo using Vector and Segment. Also prototype to see how many FPS I could get after configuring Java AWT to use hardware frame flipping the same way DirectcX and OpenGL do.
   
 Astrovania
+
   Partial port of C++ vector graphics game engine Ytivarg (gravity, backwards). C++ version mostly devolved into a swarm / gravity simulator.
   
 Liner
+
   Tool written to visualize and debug vector graphics when I was frustrated trying to fix bugs in the game.
   
 Known issues:
+
   * Second hand on clock demonstrates odd warping behavior when the hand passes approx 35 second mark. 
   * Laser multi-segment bouncing is buggy / incomplete and was current main focus of effort.
 
