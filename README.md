@@ -30,9 +30,8 @@ Mainly notes to self because this is what I had to reverse-engineer when opening
 
 * See pom.xml for dependencies. 
 * Importing pom.xml and building in IDE (or running maven build) should download required dependencies and/or generate IDE project file.
-* Version of Jackson is very old and should be updated.
 * Application entry points are:
   1 org.tsoft.jtivarg.astrovania.main() - game.
   2 org.tsoft.jtivarg.liner.main() - line rendering and debugging tool.
   3 org.tsoft.jtivarg.yticlock.main() - demo of 2d graphic flipping and Vector class.
-* Tests should be runnable and had no problems on initial commit.
+* Tests should be runnable and had no problems on initial commit. The GUI tests were a WIP and don't work though.
